@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/lucas/unb/tp2/TP2/target/scala-2.12/tp2_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/MapWords[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/MapWords[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/MapWords/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/MapWords/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/MapWords/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/MapWords/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/CreateTuples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/CreateTuples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/CreateTuples/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/CreateTuples/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/CreateTuples/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/CreateTuples/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/Partition[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/Partition[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/Partition/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/Partition/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/Partition/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/Partition/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/ReduceWords[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/ReduceWords[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/ReduceWords/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/ReduceWords/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wc/ReduceWords/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/wc/ReduceWords/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lucas/unb/tp2/TP2/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
