@@ -9,7 +9,7 @@ package object CreateTuples{
 	def words_to_tuple(data_str:List[List[String]]) : List[List[(String,Int)]] = {
 
 	  	var result : List[List[(String, Int)]] = List()
-	  	
+
 	  	var newlist : List[(String, Int)] = List()
 	  	
 	  	var str : String = "a"
@@ -22,7 +22,14 @@ package object CreateTuples{
 	  		result = result:+newlist
 	  		newlist = List() 
 	  	}
-	  	
 	  	return result
 	}
 }
+
+/*Comment starts
+.Split
+-Recupera acada palavra e format elas (rejeitando caracteres especiais como porcentagem) e as coloca em uma lista
+
+.WordsToTuple
+- Percorre a lista retornada pela função split crinado uma lista de listas onde cada uma contem tuplas com a palavra e um inteiro
+Commnent ends*/
