@@ -1,6 +1,6 @@
-[0m[[0m[31merror[0m] [0m[0m/home/lucas/unb/tp2/TP2/ReduceWords.scala:5:88: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : List[(String, List[(String, Int)])][0m
-[0m[[0m[31merror[0m] [0m[0m required: List[(String, Int)][0m
-[0m[[0m[31merror[0m] [0m[0m		return list.map{case (s:String,l:List[Int]) =>(s, l.reduceRight(_+_))}.groupBy(_._1).toList[0m
-[0m[[0m[31merror[0m] [0m[0m		                                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vitor/TP2/Main.scala:13:10: missing argument list for method reduce_words in package ReduceWords[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `reduce_words _` or `reduce_words(_)` instead of `reduce_words`.[0m
+[0m[[0m[31merror[0m] [0m[0m	println(reduce_words)[0m
+[0m[[0m[31merror[0m] [0m[0m	        ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
